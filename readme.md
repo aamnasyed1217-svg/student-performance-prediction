@@ -18,6 +18,17 @@ This project predicts whether a student will pass or fail based on demographic, 
 ## 🛠️ Programming Language
 - Python 3
 
+## 💻 Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook
+- Git
+- GitHub
+- 
 ## 📚 Required Libraries
 - pandas
 - numpy
@@ -62,3 +73,10 @@ This project predicts whether a student will pass or fail based on demographic, 
 
 ### Feature Importance
 ![Feature Importance](feature_importance.png)
+
+## 🚀 Future Improvements
+
+- Train additional machine learning models such as XGBoost and Support Vector Machine (SVM).
+- Perform hyperparameter tuning to improve model performance.
+- Deploy the model as a web application using Flask or Streamlit.
+- Use cross-validation for more robust model evaluation.
