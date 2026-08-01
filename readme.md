@@ -6,6 +6,15 @@
 ## 📌 Project Description
 This project predicts whether a student will pass or fail based on demographic, academic, and behavioral features using machine learning classification models.
 
+## 🛠 Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Machine Learning
+- Model Evaluation
+- Data Visualization
+
 ## 🛠️ Programming Language
 - Python 3
 
