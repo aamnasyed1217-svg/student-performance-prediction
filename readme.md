@@ -42,6 +42,11 @@ This project predicts whether a student will pass or fail based on demographic, 
 6. The notebook will generate the evaluation results and visualizations automatically.
 
 ## 📈 Project Outputs
+## 📈 Results
+
+- Logistic Regression achieved **94.9% accuracy**, making it the best-performing model.
+- Random Forest achieved **91.1% accuracy**.
+- The most influential features were **G2**, **G1**, and **absences**.
 
 ### Accuracy Comparison
 ![Accuracy Comparison](accuracy_comparison.png)
